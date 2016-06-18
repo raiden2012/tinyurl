@@ -1,0 +1,8 @@
+{
+  "name": "tinyurl",
+  "description": "A url shortener service",
+  "repository": "https://github.com/raiden2012/tinyurl",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "tinurl"],
+  "image": "heroku/nodejs"
+}
